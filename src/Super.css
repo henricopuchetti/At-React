@@ -1,0 +1,80 @@
+.h1-titulo{
+    display: flex;
+    justify-content: center;
+    color: green;
+  }
+
+  p{
+    margin-left: 10px;
+    font-weight: 400;
+  }
+
+.row-sopa{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.row-sopa img{
+  width: 550px;
+  margin-left: 20px;
+  border-radius: 10px;
+}
+
+.txt-quali{
+  font-size: large;
+  margin-top: -20px;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+  
+}
+.txt-prod{
+  font-size: large;
+  margin-right: 20px;
+  margin-top: 40px;
+}
+.h1-proposta{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: green;
+  margin-top: 10px;
+}
+.h1-beneficios{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: green;
+  margin-top: 10px;
+}
+.txt-beneficios{
+  font-size: large;
+  margin-top: 20px;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+.h1-parceria{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: green;
+  margin-top: 10px;
+}
+.txt-parceria{
+  font-size: large;
+  margin-top: 20px;
+  display: flex;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+nav a{
+  color: white!important;
+}
+
+.logo-img{
+  margin-right: 10px;
+}
